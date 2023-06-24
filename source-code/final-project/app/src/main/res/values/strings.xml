@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ComposePager</string>
+    <string name="main_screen_with_options">MainScreenWithOptions</string>
+    <string name="simple_horizontal_pager">SimpleHorizontalPager</string>
+    <string name="simple_vertical_pager">SimpleVerticalPager</string>
+    <string name="vertical_pager_with_images">VerticalPagerWithImages</string>
+    <string name="horizontal_pager_with_next_and_prev_buttons">HorizontalPagerWithNextAndPreviousButtons</string>
+    <string name="horizontal_pager_with_indicator">HorizontalPagerWithIndicators</string>
+
+    <string-array name="screen_options">
+
+        <item>SimpleHorizontalPager</item>
+        <item>SimpleVerticalPager</item>
+        <item>VerticalPagerWithImages</item>
+        <item>HorizontalPagerWithNextAndPreviousButtons</item>
+        <item>HorizontalPagerWithIndicators</item>
+
+    </string-array>
+
+</resources>
