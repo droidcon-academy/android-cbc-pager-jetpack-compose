@@ -1,0 +1,8 @@
+<resources>
+    <string name="code_challenge_pager">CodeChallengePager</string>
+
+    <string-array name="screen_options">
+        <item>CodeChallengePager</item>
+    </string-array>
+
+</resources>
