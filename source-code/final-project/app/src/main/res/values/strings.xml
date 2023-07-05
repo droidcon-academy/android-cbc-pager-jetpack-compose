@@ -6,15 +6,15 @@
     <string name="vertical_pager_with_images">VerticalPagerWithImages</string>
     <string name="horizontal_pager_with_next_and_prev_buttons">HorizontalPagerWithNextAndPreviousButtons</string>
     <string name="horizontal_pager_with_indicator">HorizontalPagerWithIndicators</string>
+    <string name="code_challenge_pager">CodeChallengePager</string>
 
     <string-array name="screen_options">
-
         <item>SimpleHorizontalPager</item>
         <item>SimpleVerticalPager</item>
         <item>VerticalPagerWithImages</item>
         <item>HorizontalPagerWithNextAndPreviousButtons</item>
         <item>HorizontalPagerWithIndicators</item>
-
+        <item>CodeChallengePager</item>
     </string-array>
 
 </resources>

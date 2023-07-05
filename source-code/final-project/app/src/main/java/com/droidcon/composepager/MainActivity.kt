@@ -47,6 +47,9 @@ class MainActivity : ComponentActivity() {
                                 Utils.Screens.HorizontalPagerWithIndicators.name -> {
                                     navController.navigate(Utils.Screens.HorizontalPagerWithIndicators.name)
                                 }
+                                Utils.Screens.CodeChallengePager.name -> {
+                                    navController.navigate(Utils.Screens.CodeChallengePager.name)
+                                }
                             }
                         })
                     }
@@ -64,6 +67,9 @@ class MainActivity : ComponentActivity() {
                     }
                     composable(Utils.Screens.HorizontalPagerWithIndicators.name) {
                         HorizontalPagerWithImageAndIndicators(images = Utils.images)
+                    }
+                    composable(Utils.Screens.CodeChallengePager.name) {
+                        CodeChallengePager(images = Utils.images)
                     }
                 }
             }
