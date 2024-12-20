@@ -1,3 +1,5 @@
+package com.droidcon.composepager.screens
+
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Box

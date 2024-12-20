@@ -10,7 +10,7 @@ object Utils {
         SimpleVerticalPager(title = R.string.simple_vertical_pager),
         VerticalPagerWithImages(title = R.string.vertical_pager_with_images),
         HorizontalPagerWithNextAndPreviousButtons(title = R.string.horizontal_pager_with_next_and_prev_buttons),
-        HorizontalPagerWithIndicators(title = R.string.horizontal_pager_with_indicator)
+        HorizontalPagerWithIndicators(title = R.string.horizontal_pager_with_indicator),
         CodeChallengePager(title = R.string.code_challenge_pager)
     }
 

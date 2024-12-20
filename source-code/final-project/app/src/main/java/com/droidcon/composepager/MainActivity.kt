@@ -6,6 +6,7 @@ import androidx.activity.compose.setContent
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import com.droidcon.composepager.screens.CodeChallengePager
 import com.droidcon.composepager.screens.HorizontalPagerWithImageAndIndicators
 import com.droidcon.composepager.screens.HorizontalPagerWithNextAndPrevButtons
 import com.droidcon.composepager.screens.MainScreenWithOptions
